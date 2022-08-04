@@ -1,0 +1,56 @@
+@charset "UTF-8";
+html{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: #C7AF8F;
+    overflow-x: hidden;
+}
+header{
+    background: #1c2536;
+}
+/*BARRA DE NAVEGAÇAO*/
+.navbar-nav .nav-item{
+    padding: 15px 10px;
+    text-transform: uppercase;
+}
+
+/*Carousel*/
+#slides img{
+    width: 1920px;
+    height: 800px;
+}
+
+
+/*Marceneiro*/
+#dados .container{
+    background: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#dados h3{
+    color:#47351E;
+    margin-bottom: 10px;
+}
+#dados p{
+    color: rgb(58, 58, 58);
+}
+
+
+/*Rodape*/
+footer{
+    background: #a5740a;
+}
+footer ul{
+    list-style: none;
+}
+
+footer ul li{
+    margin: 10px 0px;
+}
+.numero{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
