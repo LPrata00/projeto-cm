@@ -19,7 +19,7 @@ header{
 /*Carousel*/
 #slides img{
     width: 1920px;
-    height: 800px;
+    height: 600px;
 }
 
 
@@ -49,8 +49,16 @@ footer ul{
 footer ul li{
     margin: 10px 0px;
 }
+footer ul li a:hover{
+    color: #a5740a;
+}
 .numero{
-    text-decoration: none;
     color: white;
     margin-left: 10px;
+}
+.user{
+    color: white;
+}
+.img-sociais{
+    width: 30px;
 }
